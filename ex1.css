@@ -1,0 +1,6 @@
+.textbox {
+    color: rgb(255, 107, 107);
+    background-color: rgba(174, 204, 252, 0.6);
+    border: 4px solid rgb(28, 28, 28);
+    box-shadow: 4px 4px 8px 4px rgba(179, 255, 195, 0.5);
+}
